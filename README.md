@@ -1,6 +1,6 @@
-# 🚗 Data Analysis on Used Cars
+# Data Analysis on Used Cars
 
-## 📌 Project Overview
+## Project Overview
 This project performs Exploratory Data Analysis (EDA) on a used cars dataset to understand the key factors influencing car prices.  
 The analysis is implemented using Python in Jupyter Notebook.
 
@@ -8,7 +8,7 @@ The goal is to extract meaningful insights about resale value based on features 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Perform data cleaning and preprocessing  
 - Handle missing and inconsistent values  
 - Analyze price distribution  
@@ -18,7 +18,7 @@ The goal is to extract meaningful insights about resale value based on features 
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - Python  
 - Jupyter Notebook  
 - Pandas  
@@ -28,7 +28,7 @@ The goal is to extract meaningful insights about resale value based on features 
 
 ---
 
-## 📊 Analysis Performed
+## Analysis Performed
 - Dataset overview and summary statistics  
 - Data cleaning and preprocessing  
 - Price distribution analysis  
